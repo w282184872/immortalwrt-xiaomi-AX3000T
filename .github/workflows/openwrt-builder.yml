@@ -1,4 +1,4 @@
-name: t7
+name: ax3000t
 
 on:
   repository_dispatch:
