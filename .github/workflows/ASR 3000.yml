@@ -8,7 +8,7 @@
 # Description: Build OpenWrt using GitHub Actions
 #
 
-name: ax3000t
+name: asr3000
 
 on:
   repository_dispatch:
