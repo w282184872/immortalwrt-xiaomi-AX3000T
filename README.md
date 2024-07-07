@@ -2,20 +2,18 @@
 
 
 已安装插件：
-# luci-app-adbyby-plus
-# luci-app-docker
-# luci-app-fileassistant
-# luci-app-passwall
-# luci-app-ssr-plus
-# luci-app-ttyd
-# luci-app-unblockmusic
-# luci-app-webadmin
-# luci-app-wol
-# luci-app-zerotier
-# luci-app-alist
-具体内容刷入体验
-
+广告屏蔽大师 Plus+
+ShadowSocksR Plus+
+解除网易云音乐播放限制
+网络唤醒
+多线多拨
+负载均衡
+TTYD终端
+zerotier内网穿透
+Web 管理页面设置
 
 使用说明：
 1.Foke仓库
 2.Actions启动相应脚本ASR 3000.yml或者XIAOMI AX3000T.yml
+
+登录地址：192.168.3.1  密码：无
