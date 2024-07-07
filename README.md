@@ -1,6 +1,10 @@
 小米AX3000T和ASR3000固件云编译仓库  
   
-  
+固件说明：  
+
+登录地址：192.168.3.1  密码：无   
+新mtwifi-cfg工具获取ipv6地址需要繁琐设置，所以使用luci-app-mtk无线配置工具，连接自动获取ipv6地址
+
 已安装插件：  
 广告屏蔽大师 Plus+  
 ShadowSocksR Plus+  
