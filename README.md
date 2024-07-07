@@ -20,4 +20,4 @@ Web 管理页面设置
 1.Foke仓库  
 2.Actions启动相应脚本ASR 3000.yml或者XIAOMI AX3000T.yml   
   
-登录地址：192.168.3.1  密码：无  
+源码来自https://github.com/hanwckf/immortalwrt-mt798x
